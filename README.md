@@ -42,7 +42,7 @@ After downloading, place both files inside the project folder.
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/Prince087/Movie-Recommendation-System.git
+git clone https://github.com/Prince087/Movie-Recommendation-System-.git
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt

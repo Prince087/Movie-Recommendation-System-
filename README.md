@@ -22,11 +22,11 @@ This is a content-based movie recommendation system built using Python and Machi
 
 ## 📂 Project Structure
 movie-recommendation-system/
-├── app.py
-├── tmdb_5000_movies.csv
-├── tmdb_5000_credits.csv
-├── requirements.txt
-└── README.md
+app.py
+tmdb_5000_movies.csv
+tmdb_5000_credits.csv
+requirements.txt
+README.md
 ## 📁 Dataset Download
 
 Due to GitHub file size limits, the dataset is not included in this repository.
